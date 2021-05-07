@@ -35,7 +35,7 @@ public class Main {
             System.out.println("the less number is " + number2);
         }
         else if (number3 < number1 && number3 < number2){
-            System.out.println("the lesse number is " + number3);
+            System.out.println("the less number is " + number3);
         }
 
     }
